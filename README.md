@@ -1,14 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi%20There!%F0%9F%AA%81%EF%B8%8F&animation=fadeIn&type=waving&color=gradient&height=100&fontColor=264653"/>
+  <img src="https://capsule-render.vercel.app/api?text=hi%20there!%F0%9F%AA%81%EF%B8%8F&animation=fadeIn&type=waving&color=gradient&height=100&fontColor=264653"/>
 </p>
 <div class='contact_me' align="center">
-  <p>Contact me</p>
+  <p>welcome to my github! i enjoy building stuff and creating projects out of curiosity and solving problems. here, you'll find a collection of my personal projects, ranging from web applications to cloud-based solutions, utliziling a variety of programming languages and technologies.</p>
+  
   <a href="https://www.linkedin.com/in/lincoln-li/">
     <img height="50" src="https://github.com/vivalkm/vivalkm/assets/83200994/48ca1f5b-23b6-4cfe-b64f-e8c5a48fdd80"/>
   </a>
 </div>
 <div>
-  <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+  <h2> i'm a python and js fanboy, but i do some other stuff too</h2>
   <p align="left">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
